@@ -1,5 +1,6 @@
 
 const numbers1 = [1, 5, 10];
+
 const numbers2 = [25, 50, 100];
 
 const numbers = [...numbers1, ...numbers2];
